@@ -1,0 +1,20 @@
+﻿  dllmain.cpp
+C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\src\dllmain.cpp(1,9): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+      C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\src\dllmain.cpp(1,9):
+      'WIN32_LEAN_AND_MEAN' previously declared on the command line
+  
+C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\sdk\main.h(89,13): warning C4505: 'TERMINATE': unreferenced function with internal linkage has been removed
+  (compiling source file 'src/dllmain.cpp')
+  
+  WeatherController.cpp
+C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\src\WeatherController.cpp(3,9): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+      C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\src\WeatherController.cpp(3,9):
+      'WIN32_LEAN_AND_MEAN' previously declared on the command line
+  
+C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\sdk\main.h(89,13): warning C4505: 'TERMINATE': unreferenced function with internal linkage has been removed
+  (compiling source file 'src/WeatherController.cpp')
+  
+  WeatherPresets.cpp
+  Generating Code...
+     Creating library C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\bin\x64\Debug\ProjectVAtmosphere.lib and object C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\bin\x64\Debug\ProjectVAtmosphere.exp
+  ProjectVAtmosphere_ASI.vcxproj -> C:\Users\Denis\Desktop\Project Overhaul V\Development\Scripts\PVA\ProjectVAtmosphere_ASI\bin\x64\Debug\ProjectVAtmosphere.asi
